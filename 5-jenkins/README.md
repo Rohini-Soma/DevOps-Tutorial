@@ -1,7 +1,5 @@
-# DevOps-Tutorial
-
-- DevOps-Tutorial By Varun Kumar Manik.
-- Sending from User.
+# DevOps-Tutorial for Jenkins 1
+DevOps-Tutorial
 # Caltech-DevOps Simplilearn PG Program
 
 This repository contains course materials for the Caltech-DevOps Simplilearn Postgraduate Program.
